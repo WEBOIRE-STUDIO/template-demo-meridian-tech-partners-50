@@ -3,9 +3,9 @@
   "heroVariant": "glass-depth-hero",
   "serviceLayout": "glass-panels",
   "ctaStyle": "solid",
-  "paletteSeed": 1,
-  "heroSeed": 1,
-  "copySeed": 1,
+  "paletteSeed": 2,
+  "heroSeed": 2,
+  "copySeed": 2,
   "artDirection": {
     "key": "layered-glass-depth",
     "label": "Layered Glass / Depth — ambient glow portfolio",
